@@ -9,7 +9,7 @@ Este es un portafolio creado con Objective-C y Swift de algunos proyectos en los
 * [Buymeacoffe] (https://www.buymeacoffee.com/oscarsevgar)
 
 ## Ver ejemplo en vivo
-- [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
+- [https://oscarsevgar.github.io/mi-portafolio/] (https://oscarsevgar.github.io/mi-portafolio/)
 
 ## Instalación
 Este proyecto no necesita instalación. Simplemente se muestran imagenes y videos del funcionamiento.
