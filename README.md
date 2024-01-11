@@ -1,8 +1,8 @@
-## Descripción 
+## Descripción 🏝️
 
 Este es un portafolio creado con Objective-C y Swift de algunos proyectos en los que he participado.
 
-## Autor -
+## Autor 🖋️
 **Oscar Sevilla Garduño**
 
 * [Linkedin] (https://www.linkedin.com/in/oscar-sevgar)
