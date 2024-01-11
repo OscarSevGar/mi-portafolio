@@ -5,11 +5,11 @@ Este es un portafolio creado con Objective-C y Swift de algunos proyectos en los
 ## Autor 🖋️
 **Oscar Sevilla Garduño**
 
-* [Linkedin] (https://www.linkedin.com/in/oscar-sevgar)
-* [Buymeacoffe] (https://www.buymeacoffee.com/oscarsevgar)
+* [Linkedin](https://www.linkedin.com/in/oscar-sevgar)
+* [Buy me a coffee](https://www.buymeacoffee.com/oscarsevgar)
 
 ## Ver ejemplo en vivo
-- [https://oscarsevgar.github.io/mi-portafolio/] (https://oscarsevgar.github.io/mi-portafolio/)
+- [https://oscarsevgar.github.io/mi-portafolio/](https://oscarsevgar.github.io/mi-portafolio/)
 
 ## Instalación
 Este proyecto no necesita instalación. Simplemente se muestran imagenes y videos del funcionamiento.
