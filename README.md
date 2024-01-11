@@ -3,9 +3,10 @@
 Este es un portafolio creado con Objective-C y Swift de algunos proyectos en los que he participado.
 
 ## Autor -
-** Oscar Sevilla Garduño **
+**Oscar Sevilla Garduño**
 
 * [Linkedin] (https://www.linkedin.com/in/oscar-sevgar)
+* [Buymeacoffe] (https://www.buymeacoffee.com/oscarsevgar)
 
 ## Ver ejemplo en vivo
 - [ENLACEGITHUBPAGES] (ENLACEGITHUBPAGES)
